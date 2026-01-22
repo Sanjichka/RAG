@@ -29,5 +29,7 @@ The system transforms raw .docx documentation into a searchable knowledge base t
 
 📋 Example Usage
 The system is designed to handle complex technical queries. For example, when queried about Google BigQuery, the system retrieves specific architectural details from the indexed healthcare analytics documentation:
+
 -> Query: Which standard SQL is supported in BigQuery?
+
 -> Response: BigQuery supports standard SQL:2011. Sources: ['BigQuery for Large-Scale Healthcare Analytics.docx:3', ...]
