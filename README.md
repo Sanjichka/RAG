@@ -7,7 +7,6 @@ This repository contains a Retrieval-Augmented Generation (RAG) system designed 
 🏗️ Architecture
 The system transforms raw .docx documentation into a searchable knowledge base through the following steps:
 -> Hierarchical Document Parsing: Uses python-docx to detect document Headings. This ensures text chunks are split logically by topic rather than arbitrary character counts, preserving semantic context.
-
 -> Incremental Indexing: Every text chunk is hashed using SHA-256. The system compares these hashes against the existing database and only adds or updates content that has changed, saving processing time and API costs.
 
 -> Vector Embedding: Converts text into 768-dimensional vectors using the text-embedding-004 model.
