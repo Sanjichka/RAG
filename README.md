@@ -29,7 +29,7 @@ The system transforms raw .docx documentation into a searchable knowledge base t
 -> Environment: Python / Google Colab
 
 📋 Example Usage: 
-The system is designed to handle complex technical queries. For example, when queried about Google BigQuery, the system retrieves specific architectural details from the indexed healthcare analytics documentation:
+The system is designed to handle complex technical queries. For example, when queried about Google BigQuery, the system retrieves specific architectural details from the indexed healthcare analytics documentation (attached in the repository):
 
 -> Query: Which standard SQL is supported in BigQuery?
 
