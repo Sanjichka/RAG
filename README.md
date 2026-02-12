@@ -1,7 +1,8 @@
 # RAG
 Retrieval Augmented Generation
 
-My goal: Gemini-Powered RAG Pipeline for Technical Documentation
+My goal: Gemini-Powered RAG Pipeline for Technical Documentation.
+
 This repository contains a Retrieval-Augmented Generation (RAG) system designed to extract and query information from technical documents. It leverages Google's Gemini 2.5 for high-speed reasoning and Chroma DB for efficient vector storage.
 
 🏗️ Architecture
